@@ -7,7 +7,7 @@
 - ACGN文化作为当代青少年的精神自愈机制
 - 告别与铭记的辩证法——不是非此即彼，而是转化与共生
 
-### [**在线游玩**](https://simplicity-studio.github.io/Game.theNonexistentCompanion/)
+### 在线游玩：[GitHub.io](https://simplicity-studio.github.io/Game.theNonexistentCompanion/) / [ccw.site](https://www.ccw.site/detail/6a69663ba0597643310383fa)
 ### [故事全文](https://kicmtoq4ozt.feishu.cn/wiki/Yj6Pwrsybi1tSjkbO0gcJeuxndb)
 
 本作基于画笔实现文字打印。[原作链接](https://gitblock.cn/Projects/1137086)
